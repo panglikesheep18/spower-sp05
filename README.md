@@ -1,6 +1,5 @@
 # spower-sp05
 
-## This files are not there yet because i had to cleanup the files before uploading and apparently it is improving fast. 
 <!--panglikesheep18 made the case, the rest are from others-->
 spower sp05 is the first flagship power bank created by panglikesheep18, it features detachable battery and an external XT30 connector (stock) for powering hobby charger, the battery uses 4 cells with BMS on it.
 
