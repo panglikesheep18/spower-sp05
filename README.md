@@ -1,3 +1,5 @@
+# If you are willing to build it, please wait some time, as the project is improving fast, thanks for patience!
+
 # spower-sp05
 
 <!--panglikesheep18 made the case, the rest are from others-->
