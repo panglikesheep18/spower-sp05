@@ -21,7 +21,7 @@ Print them in TPU95A if the file starts with [s]    <!--(unless you want to risk
 
 ## Print configurations
 
-Recommended print configuration is 0.2mm layer height, 1mm wall thickness, 1mm top thickness, 1mm bottom thickness (1mm top / bottom thickness), 40% infill percentage (infills higher than 40% have no major durability improvments), any infill type is OK, no slicer supports are required, PETG or ABS, and TPU95A for xt30cover is recommended.
+Recommended print configuration is 0.2mm layer height, 1mm wall thickness, 1mm top thickness, 1mm bottom thickness (1mm top / bottom thickness), 40% infill percentage (infills higher than 40% have no major durability improvments), any infill type is OK, no slicer supports are required, PETG, ABS, and TPU95A for xt30cover is recommended.
 
 <!-- Stock (mine) has 2 USB-A outputs with 12V-18W max. using only one port, 20V-60W max. on USB-C input / output port using only this port and a Micro-USB input connector with 12V-18W max. -->
 
