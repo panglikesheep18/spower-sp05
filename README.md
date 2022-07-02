@@ -49,4 +49,6 @@ Recommended print configuration is 0.2mm layer height, 1mm wall thickness, 1mm t
 -->
 <!-- images -->
 <!--![render of spower sp05 v1](https://user-images.githubusercontent.com/94123276/141441973-5969a629-3a23-494b-94b5-24d6e7739845.png)-->
-![render of spower sp05 v2](https://user-images.githubusercontent.com/94123276/145663791-a466c1f9-6a45-48b0-940e-74b780550f10.png)
+<!--![render of spower sp05 v2](https://user-images.githubusercontent.com/94123276/145663791-a466c1f9-6a45-48b0-940e-74b780550f10.png)-->
+![render of spower sp05 v4](https://user-images.githubusercontent.com/94123276/176997648-82ff1ef8-97a5-43e6-ab9e-c864e393c069.png)
+
